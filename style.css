@@ -1,0 +1,22 @@
+body {
+    background-color: #0f1b2a;
+}
+
+.card {
+    background-color: #1e2b3c;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}
+
+input.form-control {
+    background-color: #1e2b3c;
+    color: white;
+    border: 1px solid #17a2b8;
+}
+
+input.form-control::placeholder {
+    color: #aaa;
+}
+
+.text-info {
+    color: #17a2b8 !important;
+}
